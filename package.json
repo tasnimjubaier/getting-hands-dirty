@@ -1,0 +1,22 @@
+{
+  "name": "getting-hands-dirty",
+  "version": "1.0.0",
+  "description": "RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "justForFun"
+  ],
+  "author": "TJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
